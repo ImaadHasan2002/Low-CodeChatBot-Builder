@@ -1,7 +1,5 @@
 # Low-CodeChatBot-Builder
 
-# Low-Code Chatbot Builder Readme
-
 ## Project Overview
 
 This project aims to develop a user-friendly, low-code platform for building sophisticated chatbots, eliminating the need for extensive technical expertise. The platform will simplify the process of creating chatbots, particularly those that leverage real-time data and advanced techniques like Retrieval-Augmented Generation (RAG).
